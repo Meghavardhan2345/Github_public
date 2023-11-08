@@ -1,1 +1,1 @@
-# Github_public
+The code is about making a LED blink for  every 250  or 500 milliseconds  based on the  temperature values. The delays are not directly given  as we usually use delay, millis  and  micros . Here the delays are given with the help of timers,  It is a way of creating delay with timers
